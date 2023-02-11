@@ -13,7 +13,7 @@ const AboutMe = () => {
                 use them to build high-quality, scalable, and user-friendly applications.
             </div>
             <div className="flex flex-wrap w-full mt-10">
-                <Card imgSrc="/android_icon.png" borderColor="border-android" title="Android Development" />
+                <Card imgSrc="./android_icon.png" borderColor="border-android" title="Android Development" />
                 <Card imgSrc="/flutter_icon.png" borderColor="border-flutter" title="Flutter Development" />
                 <Card imgSrc="/react_icon.png" borderColor="border-react" title="MERN Stack" />
                 <Card imgSrc="/unity_icon.png" borderColor="border-unity" title="Unity2D Development" />
