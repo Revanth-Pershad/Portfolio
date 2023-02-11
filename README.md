@@ -2,6 +2,8 @@ Visit the site on.
 (https://revanth-pershad.github.io/Portfolio/).
 Technologies used : - Next.js TailwindCss Github Pages
 
+Images not rendering directly for the Url. Try to clone the repo and npm run dev.
+
 ## Getting Started
 
 First, run the development server:
