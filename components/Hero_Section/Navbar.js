@@ -9,7 +9,6 @@ const Navbar = () => {
           <span className="mr-8 hidden md:inline cursor-pointer">Home</span>
           <span className="mr-8 hidden md:inline cursor-pointer">About Me</span>
           <span className="mr-8 hidden md:inline cursor-pointer">Skills</span>
-          <span className="mr-8 hidden md:inline cursor-pointer">Socials</span>
           <span className="mr-8 hidden md:inline cursor-pointer">Contact Me</span>
         </div>
       </div>
