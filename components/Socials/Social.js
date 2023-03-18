@@ -6,9 +6,7 @@ const Social = () => {
       <div className='w-full text-center text-4xl text-white font-serif mb-5'>Socials</div>
       <div className='w-full'>
         <div className='flex flex-wrap justify-center'>
-          <a className='mx-10 mt-5' href='https://github.com/Revanth-Pershad'>
-            <img src='/github.png' />
-          </a>
+         
           <a className='mx-10 mt-5' href='https://www.linkedin.com/in/revanth-pershad-217937245'>
             <img src='/linkedin.png' />
           </a>
